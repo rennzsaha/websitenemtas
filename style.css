@@ -1,0 +1,77 @@
+body {
+    min-height: 2000px;
+  }
+  
+  .jumbotron {
+    padding-top: 2rem;
+    background-color: #e2edff;
+  }
+  
+  #projects {
+    width: auto;
+    background-color: #e2edff;
+  }
+  
+  .carousel {
+    width: 1000px;
+    height: 300px;
+    margin: 220px;
+    margin-top: 50px;
+  }
+  
+  .bgcarousel {
+    background-color: #e2edff;
+    margin-top: 0px;
+  }
+  .bgcarousel h2 {
+    text-align: center;
+    font-size: 50px;
+  }
+  
+  .contact {
+    background-color: white;
+    color: black;
+  }
+  .footeratas {
+    background-color: white;
+  }
+  
+  .footer {
+    background-color: #0099ff;
+    color: white;
+    min-height: 100px;
+  }
+  
+  .footer a {
+    color: white;
+  }
+  
+  section {
+    padding-top: 5rem;
+  }
+  
+  .row {
+    border-radius: 100px;
+  }
+  
+  b {
+    font-weight: bold;
+  }
+  
+  section {
+    padding-top: 5rem;
+  }
+  .gallery-img {
+    width: 100%;
+  }
+  #gallery .row > * {
+    padding: 0;
+  }
+  
+  .contact {
+    margin-top: 100px;
+  }
+  
+  .jumbotron img {
+    border: 1px solid black;
+  }
